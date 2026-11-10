@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Firebase Mahasiswa App",
+    "slug": "firebase-mahasiswa-expo",
+    "scheme": "firebasemahasiswa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.tugas.firebasemahasiswa",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tugas.firebasemahasiswa"
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ]
+  }
+}

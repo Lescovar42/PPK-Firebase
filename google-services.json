@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940825251566",
+    "project_id": "ppk-react-native",
+    "storage_bucket": "ppk-react-native.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940825251566:android:d5ac0948a1dff42e642dff",
+        "android_client_info": {
+          "package_name": "com.tugas.firebasemahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940825251566-264m6bgskuss1edhtjjvcha18lmrhbtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFcXzUDakW-MDYx-JIvy8m3Kov2PREo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940825251566-264m6bgskuss1edhtjjvcha18lmrhbtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
